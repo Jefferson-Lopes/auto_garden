@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "soil_moisture")(type "KiCad")(uri "${KIPRJMOD}/componets/symbols/soil_moisture.kicad_sym")(options "")(descr ""))
+  (lib (name "power_charger")(type "KiCad")(uri "${KIPRJMOD}/componets/symbols/power_charger.kicad_sym")(options "")(descr ""))
+)
